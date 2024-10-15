@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_number_addition">
+    <title>What is number addition</title>
+    <shortdesc>Here you will learn what is addition.</shortdesc>
+    <conbody>
+        <p>To perform addition using the JPS Calculator app, it is crucial to grasp the concept of
+            addition. Addition is a mathematical operation that combines two or more numbers to
+            yield a total or sum.</p>
+        <p>In the app, addition is represented by the plus (+) button. When you add numbers, you are
+            bringing together quantities, resulting in a greater value. This operation is
+            foundational for various mathematical tasks, including calculating totals and combining
+            amounts.</p>
+        <p>By mastering addition, you can effectively navigate numerical operations and improve your
+            calculation efficiency within the app.</p>
+    </conbody>
+</concept>

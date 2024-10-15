@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>end-user-guide-for-jps-calculator-application</title>
+    <topichead navtitle="Add">
+        <topicref href="how_to_add_numbers.dita"/>
+        <topicref href="what_is_number_addition.dita"/>
+    </topichead>
+    <topichead navtitle="Subtract">
+        <topicref href="how_to_subtract_numbers.dita"/>
+        <topicref href="what_is_number_subtraction.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply">
+        <topicref href="how_to_multiply_numbers.dita"/>
+        <topicref href="what_is_number_multiplication.dita"/>
+    </topichead>
+    <topichead navtitle="Divide">
+        <topicref href="how_to_divide_numbers.dita"/>
+        <topicref href="what_is_number_division.dita"/>
+    </topichead>
+</map>

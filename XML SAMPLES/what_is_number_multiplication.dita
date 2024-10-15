@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_number_multiplication">
+    <title>What is number multiplication</title>
+    <shortdesc>Here you will learn what is multiplication.</shortdesc>
+    <conbody>
+        <p>To perform multiplication using the JPS Calculator app, it is important to understand the
+            concept of multiplication. Multiplication is a mathematical operation that calculates
+            the total of one number added to itself a specified number of times.</p>
+        <p>In the app, multiplication is represented by the multiply (×) button. When you multiply
+            two numbers, you are essentially scaling one number by the other, resulting in a larger
+            value. This operation is fundamental for calculating areas, scaling quantities, and
+            more.</p>
+        <p>By mastering multiplication, you can efficiently manage numerical operations and enhance
+            your problem-solving skills within the app.</p>
+    </conbody>
+</concept>

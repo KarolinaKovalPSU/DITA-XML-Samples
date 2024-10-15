@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_divide_numbers">
+    <title>How to divide numbers</title>
+    <shortdesc>Here you will find instructions about using the division feature of the JPS
+        Calculator app.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the divide (÷) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_jrx_r5f_bdc">The result from the division is displayed.</result>
+        <example id="example_ex2_t5f_bdc">
+            <p>You want to divide 10 by 2. The equation will look like: 10 ÷ 2 = 5. You enter 10.
+                Press divide. Enter 2. Press equals. The result 5 appears on the screen.</p>
+        </example>
+    </taskbody>
+</task>

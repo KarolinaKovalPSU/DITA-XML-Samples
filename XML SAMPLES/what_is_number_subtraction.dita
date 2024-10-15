@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_number_subtraction">
+    <title>What is number subtraction?</title>
+    <shortdesc>Here you will learn what is subtraction.</shortdesc>
+    <conbody>
+        <p>To perform subtraction using the JPS Calculator app, it is essential to understand the
+            concept of subtraction. Subtraction is a mathematical operation that allows you to find
+            the difference between two numbers.</p>
+        <p>In the app, the subtraction operation is represented by the minus (-) button. When you
+            subtract, you take one number away from another, resulting in a smaller number. This
+            process is often described as reducing a value.</p>
+        <p>By mastering subtraction, you can effectively calculate differences and manage numerical
+            operations within the app.</p>
+    </conbody>
+</concept>
